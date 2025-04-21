@@ -1,10 +1,12 @@
 ### Hey there 👋
 
-**I'm Marco :man_technologist:**. Developer based in México
+**I'm Marco :man_technologist:**. Software developer based in Mexico
 
-I strongly believe that technology is a powerful tool to turn ideas into valuable, scalable solutions. I focus on building reliable, efficient applications from the backend to the frontend.
+With over 10 years of experience turning ideas into scalable, reliable, and efficient applications.
 
-I'm constantly learning, because I know the tech world moves fast—and I aim to move with it. I care about clean code, solid architecture, and delivering results that inspire trust and reflect a deep understanding of the product.
+I specialize in full-stack development, building clean, maintainable solutions from backend to frontend. I’m passionate about clean code, thoughtful architecture, and delivering results that solve real problems.
+
+I believe in continuous learning and staying ahead in a fast-evolving tech landscape. My goal is to build software that not only works—but works beautifully, earns trust, and creates impact.
 
 **Code with purpose, build with vision**. :nerd_face:
 
