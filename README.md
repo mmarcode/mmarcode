@@ -2,7 +2,11 @@
 
 **I'm Marco :man_technologist:**. Developer based in México
 
-The only certainty I have is that learning is an endless road and I want to stay on it. So, I love technology, coffee and applying knowledge to solve problems, **create solutions and impact lives**. :nerd_face:
+I strongly believe that technology is a powerful tool to turn ideas into valuable, scalable solutions. I focus on building reliable, efficient applications from the backend to the frontend.
+
+I'm constantly learning, because I know the tech world moves fast—and I aim to move with it. I care about clean code, solid architecture, and delivering results that inspire trust and reflect a deep understanding of the product.
+
+**Code with purpose, build with vision**. :nerd_face:
 
 **You can find me :earth_americas:**
 
