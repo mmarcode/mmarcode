@@ -2,7 +2,7 @@
 
 **I'm Marco :man_technologist:**. Software developer based in Mexico
 
-With over 10 years of experience turning ideas into scalable, reliable, and efficient applications.
+With over 8 years of experience turning ideas into scalable, reliable, and efficient applications.
 
 I specialize in full-stack development, building clean, maintainable solutions from backend to frontend. I’m passionate about clean code, thoughtful architecture, and delivering results that solve real problems.
 
